@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Fenix
+ *
+ */
+module BugTest {
+}
